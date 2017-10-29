@@ -1,0 +1,5 @@
+f5af0354934e1285c7d0a6d0cb2d3d8e  DEBIAN/control
+10e10f64ed12cc6355a1e70036f5b351  DEBIAN/postinst
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+3b922efc6be7d5ca7335fd751bf3e77f  etc/apt/sources.list.d/xanmod.list
+98af8e0e495427c4988dff962eeb4fc9  etc/apt/trusted.gpg.d/xanmod.asc
