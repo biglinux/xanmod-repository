@@ -2,7 +2,7 @@ Package: xanmod-repository
 Version: 2017.09-1big3
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
-Installed-Size:44
+Installed-Size:20
 Section: admin
 Priority: optional
 Description: Xanmod repository and key
